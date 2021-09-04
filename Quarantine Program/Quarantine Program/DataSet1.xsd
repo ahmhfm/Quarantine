@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EntryAndExit" msprop:Generator_TableClassName="EntryAndExitDataTable" msprop:Generator_TableVarName="tableEntryAndExit" msprop:Generator_TablePropName="EntryAndExit" msprop:Generator_RowDeletingName="EntryAndExitRowDeleting" msprop:Generator_RowChangingName="EntryAndExitRowChanging" msprop:Generator_RowEvHandlerName="EntryAndExitRowChangeEventHandler" msprop:Generator_RowDeletedName="EntryAndExitRowDeleted" msprop:Generator_UserTableName="EntryAndExit" msprop:Generator_RowChangedName="EntryAndExitRowChanged" msprop:Generator_RowEvArgName="EntryAndExitRowChangeEvent" msprop:Generator_RowClassName="EntryAndExitRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Quest_IdNo" msprop:Generator_ColumnVarNameInTable="columnQuest_IdNo" msprop:Generator_ColumnPropNameInRow="Quest_IdNo" msprop:Generator_ColumnPropNameInTable="Quest_IdNoColumn" msprop:Generator_UserColumnName="Quest_IdNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Quest_IdType" msprop:Generator_ColumnVarNameInTable="columnQuest_IdType" msprop:Generator_ColumnPropNameInRow="Quest_IdType" msprop:Generator_ColumnPropNameInTable="Quest_IdTypeColumn" msprop:Generator_UserColumnName="Quest_IdType" type="xs:string" minOccurs="0" />
+              <xs:element name="Quest_Name" msprop:Generator_ColumnVarNameInTable="columnQuest_Name" msprop:Generator_ColumnPropNameInRow="Quest_Name" msprop:Generator_ColumnPropNameInTable="Quest_NameColumn" msprop:Generator_UserColumnName="Quest_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Quest_Nationality" msprop:Generator_ColumnVarNameInTable="columnQuest_Nationality" msprop:Generator_ColumnPropNameInRow="Quest_Nationality" msprop:Generator_ColumnPropNameInTable="Quest_NationalityColumn" msprop:Generator_UserColumnName="Quest_Nationality" type="xs:string" minOccurs="0" />
+              <xs:element name="Quest_DateOfBirth" msprop:Generator_ColumnVarNameInTable="columnQuest_DateOfBirth" msprop:Generator_ColumnPropNameInRow="Quest_DateOfBirth" msprop:Generator_ColumnPropNameInTable="Quest_DateOfBirthColumn" msprop:Generator_UserColumnName="Quest_DateOfBirth" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="age" msprop:Generator_ColumnVarNameInTable="columnage" msprop:Generator_ColumnPropNameInRow="age" msprop:Generator_ColumnPropNameInTable="ageColumn" msprop:Generator_UserColumnName="age" type="xs:string" minOccurs="0" />
+              <xs:element name="Quest_Gender" msprop:Generator_ColumnVarNameInTable="columnQuest_Gender" msprop:Generator_ColumnPropNameInRow="Quest_Gender" msprop:Generator_ColumnPropNameInTable="Quest_GenderColumn" msprop:Generator_UserColumnName="Quest_Gender" type="xs:string" minOccurs="0" />
+              <xs:element name="Quest_FileNo" msprop:Generator_ColumnVarNameInTable="columnQuest_FileNo" msprop:Generator_ColumnPropNameInRow="Quest_FileNo" msprop:Generator_ColumnPropNameInTable="Quest_FileNoColumn" msprop:Generator_UserColumnName="Quest_FileNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ReservationNo" msprop:Generator_ColumnVarNameInTable="columnReservationNo" msprop:Generator_ColumnPropNameInRow="ReservationNo" msprop:Generator_ColumnPropNameInTable="ReservationNoColumn" msprop:Generator_UserColumnName="ReservationNo" type="xs:int" minOccurs="0" />
+              <xs:element name="DateTimeOfEntry" msprop:Generator_ColumnVarNameInTable="columnDateTimeOfEntry" msprop:Generator_ColumnPropNameInRow="DateTimeOfEntry" msprop:Generator_ColumnPropNameInTable="DateTimeOfEntryColumn" msprop:Generator_UserColumnName="DateTimeOfEntry" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DateTimeOfExit" msprop:Generator_ColumnVarNameInTable="columnDateTimeOfExit" msprop:Generator_ColumnPropNameInRow="DateTimeOfExit" msprop:Generator_ColumnPropNameInTable="DateTimeOfExitColumn" msprop:Generator_UserColumnName="DateTimeOfExit" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="asdurationOfStay" msprop:Generator_ColumnVarNameInTable="columnasdurationOfStay" msprop:Generator_ColumnPropNameInRow="asdurationOfStay" msprop:Generator_ColumnPropNameInTable="asdurationOfStayColumn" msprop:Generator_UserColumnName="asdurationOfStay" type="xs:string" minOccurs="0" />
+              <xs:element name="Room_no" msprop:Generator_ColumnVarNameInTable="columnRoom_no" msprop:Generator_ColumnPropNameInRow="Room_no" msprop:Generator_ColumnPropNameInTable="Room_noColumn" msprop:Generator_UserColumnName="Room_no" type="xs:string" minOccurs="0" />
+              <xs:element name="Room_Floor" msprop:Generator_ColumnVarNameInTable="columnRoom_Floor" msprop:Generator_ColumnPropNameInRow="Room_Floor" msprop:Generator_ColumnPropNameInTable="Room_FloorColumn" msprop:Generator_UserColumnName="Room_Floor" type="xs:string" minOccurs="0" />
+              <xs:element name="Quarry_QuarryName" msprop:Generator_ColumnVarNameInTable="columnQuarry_QuarryName" msprop:Generator_ColumnPropNameInRow="Quarry_QuarryName" msprop:Generator_ColumnPropNameInTable="Quarry_QuarryNameColumn" msprop:Generator_UserColumnName="Quarry_QuarryName" type="xs:string" minOccurs="0" />
+              <xs:element name="Quarry_CityName" msprop:Generator_ColumnVarNameInTable="columnQuarry_CityName" msprop:Generator_ColumnPropNameInRow="Quarry_CityName" msprop:Generator_ColumnPropNameInTable="Quarry_CityNameColumn" msprop:Generator_UserColumnName="Quarry_CityName" type="xs:string" minOccurs="0" />
+              <xs:element name="Quarry_AlmantiqaName" msprop:Generator_ColumnVarNameInTable="columnQuarry_AlmantiqaName" msprop:Generator_ColumnPropNameInRow="Quarry_AlmantiqaName" msprop:Generator_ColumnPropNameInTable="Quarry_AlmantiqaNameColumn" msprop:Generator_UserColumnName="Quarry_AlmantiqaName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

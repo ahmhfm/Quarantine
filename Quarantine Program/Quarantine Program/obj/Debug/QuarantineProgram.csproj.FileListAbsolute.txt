@@ -1,0 +1,14 @@
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\QuarantineProgram.csprojAssemblyReference.cache
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.deviesID.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.Form1.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.Form2.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.frm_AlmantiqCityQuest.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.frm_Entry.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.frm_Quest.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.frm_QuestReport.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.frm_users.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine_Program.Properties.Resources.resources
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\QuarantineProgram.csproj.GenerateResource.cache
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\QuarantineProgram.csproj.CoreCompileInputs.cache
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine Program.exe
+C:\Users\asmahdi\source\repos\Quarantine Program\Quarantine Program\obj\Debug\Quarantine Program.pdb
